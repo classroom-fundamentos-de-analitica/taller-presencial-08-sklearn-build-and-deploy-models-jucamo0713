@@ -1,0 +1,12 @@
+POST http://127.0.0.1:5000
+Content-Type: application/json
+
+{
+ "bathrooms": 2,
+ "bedrooms": 3,
+ "sqft_living": 1800,
+ "sqft_lot": 2200,
+ "floors": 1,
+ "waterfront": 1,
+ "condition": 3
+}
